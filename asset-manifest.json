@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactBrowseRouterHosting/static/css/main.d0df9718.css",
+    "main.js": "/ReactBrowseRouterHosting/static/js/main.ecfdb97a.js",
+    "index.html": "/ReactBrowseRouterHosting/index.html",
+    "main.d0df9718.css.map": "/ReactBrowseRouterHosting/static/css/main.d0df9718.css.map",
+    "main.ecfdb97a.js.map": "/ReactBrowseRouterHosting/static/js/main.ecfdb97a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0df9718.css",
+    "static/js/main.ecfdb97a.js"
+  ]
+}
